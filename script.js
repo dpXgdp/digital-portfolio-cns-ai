@@ -183,7 +183,7 @@ function initTasks() {
         const driveComponentHTML = `
             <a href="${d.driveUrl}" target="_blank" class="drive-print-link" style="display: flex; align-items: center; justify-content: center; gap: 0.8rem; background: rgba(16, 185, 129, 0.08); border: 2px dashed var(--primary-light); color: var(--primary); padding: 1.2rem; border-radius: 12px; text-decoration: none; font-weight: 600; margin: 1.5rem 0 0.5rem 0; transition: var(--transition); box-shadow: var(--shadow);" onmouseover="this.style.background='rgba(16, 185, 129, 0.18)'; this.style.transform='translateY(-2px)';" onmouseout="this.style.background='rgba(16, 185, 129, 0.08)'; this.style.transform='translateY(0)';">
                 <i class="fa-solid fa-folder-open" style="font-size: 1.5rem; color: var(--primary-light);"></i> 
-                Nhấp để kiểm tra toàn bộ tệp tin & báo cáo gốc trên Google Drive
+                Báo cáo chi tiết
             </a>
         `;
 
