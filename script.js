@@ -34,7 +34,7 @@ const portfolioData = {
             title: "Bài 1: Thao tác cơ bản với tệp tin và thư mục",
             desc: "Thực hành quản trị tệp tin hệ thống trên môi trường Windows File Explorer cục bộ tại phân vùng ổ đĩa D.",
             driveUrl: "https://drive.google.com/file/d/1eVcx7SYphvsgsaUAw3c5cDZKF71_DXrJ/view?usp=sharing",
-            structure: `ThucHanh_NguyenDucPhu/ (Ngày 03/07/2026)
+            structure: `ThucHanh_NguyenDucPhu/ (Ngày 07/03/2026)
 ├── GhiChuQuanTrong.txt   # File nhật ký ghi chú hệ thống
 └── TaiLieu/             # Thư mục con lưu trữ học liệu phân cấp
     ├── GhiChuQuanTrong.txt   # Bản sao tệp tin văn bản (Copy & Paste)
